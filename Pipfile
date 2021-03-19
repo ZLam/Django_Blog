@@ -8,7 +8,7 @@ pylint-django = "*"
 pylint = "*"
 
 [packages]
-django = "==2.2.0"
+django = "==2.2.18"
 markdown = "*"
 
 [requires]
